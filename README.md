@@ -21,4 +21,4 @@ Wargame played in the Ethereum Virtual Machine. Each level is a smart contract t
 
 ### [VestingVault](https://github.com/menezesphill/vestingVault) and [VestingVault DAPP](https://github.com/menezesphill/vestingVault-dapp)
 
-One of my personal repositories, VestingVault is a simple implementation of a graded vesting contract. Simple yet well documented to get started with Truffle and Ganache. VestingVault DAPP is an example on how to integrate the Smart Contract to a simple Vanilla JS app using Metamask and web3.js.
+One of my personal repositories, VestingVault is a simple implementation of a graded vesting contract. VestingVault DAPP is an example on how to integrate the Smart Contract to a simple Vanilla JS app using Metamask and web3.js.
