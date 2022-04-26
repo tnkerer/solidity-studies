@@ -7,6 +7,14 @@ Some Basic Material to Get Started with Blockchain, Solidity and Web3.
 
 Cryptozombies is a good starter course, the course itself is broken/unmaintained and to move through the chapters you need to edit the chapter number on your browser, but still, the content is relevant.
 
+### [Ethers.js Docs](https://docs.ethers.io/v5/)
+
+The ethers.js library aims to be a complete and compact library for interacting with the Ethereum Blockchain and its ecosystem.
+
+### [web3.js Docs](https://web3js.readthedocs.io/en/v1.7.3/index.html#)
+
+web3.js is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
+
 ### [Ethereum Smart Contract - Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
 Baseline knowledge of security considerations for intermediate Solidity programmers.
