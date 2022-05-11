@@ -23,6 +23,10 @@ Baseline knowledge of security considerations for intermediate Solidity programm
 
 Repo with compiled info about Gas Saving Patters, a highly-valued skill among blockchain developers.
 
+### [Solidity by Example](https://github.com/raineorshine/solidity-by-example)
+
+This is a collection of Solidity snippets for people who like to learn by example.
+
 ### [Hacking the Blockchain with Ethernaut](https://ethernaut.openzeppelin.com/)
 
 Wargame played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
