@@ -27,6 +27,10 @@ Repo with compiled info about Gas Saving Patters, a highly-valued skill among bl
 
 This is a collection of Solidity snippets for people who like to learn by example.
 
+### [Ethereum EVM illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
+
+Mental models to understand how the EVM works!
+
 ### [Hacking the Blockchain with Ethernaut](https://ethernaut.openzeppelin.com/)
 
 Wargame played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
